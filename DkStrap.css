@@ -1,0 +1,127 @@
+/* -----====[ ALINHAMENTOS E ORGANIZAÇÃO ]====----- */
+
+/* DISPLAY FLEX EM LINHA */
+.flex-row-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.flex-row-left {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.flex-row-right {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.flex-row-space-around {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.flex-row-space-between {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+/* DISPLAY FLEX EM COLUNA */
+.flex-column-center {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.flex-column-left {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.flex-column-right {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-end;
+}
+
+.flex-column-space-around {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.flex-column-space-between {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+/* -----====[ /ALINHAMENTOS E ORGANIZAÇÃO ]====----- */
+
+/* -----====[ TAMANHOS E ESPAÇAMENTOS ]====----- */
+
+/* TAMANHOS */
+.width-100 {
+    width: 100%;
+}
+.width-75 {
+    width: 75%;
+}
+
+.width-50 {
+    width: 50%;
+}
+
+.width-25 {
+    width: 25%;
+}
+
+/* ESPAÇAMENTOS */
+.padding-100px {
+    padding: 100px;
+}
+
+.padding-75px {
+    padding: 75px;
+}
+
+.padding-50px {
+    padding: 50px;
+}
+
+.padding-25px {
+    padding: 25px;
+}
+
+/* -----====[ /TAMANHOS E ESPAÇAMENTOS ]====----- */
+
+/* -----====[ AINHAMENTO DE TEXTOS ]====----- */
+
+.text-center {
+    text-align: center;
+}
+
+.text-justify {
+    text-align: justify;
+}
+
+.text-left {
+    text-align: left;
+}
+
+.text-right {
+    text-align: right;
+}
+
+/* -----====[ /AINHAMENTO DE TEXTOS ]====----- */
