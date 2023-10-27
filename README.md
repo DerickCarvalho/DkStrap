@@ -1,11 +1,11 @@
 # DkStrap - Classes CSS genéricas
 
-- Descrição:
+- DESCRIÇÃO:
 
     Criei esse arquivo CSS contendo classes que costumo usar em meus projetos. Essas classes funcionam em qualquer projeto, pois utilizam apenas
     atributos padrões do CSS, eu apenas os organizo em classes para facilitar o uso.
 
-- Vantagens:
+- VANTAGENS:
 
     Vejo esse "simplérrimo framework" como uma vantagem no seguinte cenário: Programação FrontEnd de projetos básicos. Utilizar esse framework
     diminui muito a poluição do arquivo .css das páginas da aplicação, pois, por exemplo, ao precisar definir uma div como "display flex" e alinhar
@@ -14,7 +14,7 @@
 
     Basicamente, esse framework usa o conceito de reaproveitamento máximo de código, evitando escrever novamente a mesma coisa.
 
-- Documentação:
+- DOCUMENTAÇÃO:
 
     - ALINHAMENTOS E ORGANIZAÇÃO:
 
@@ -49,3 +49,18 @@
         - text-justify -> Justifica o texto;
         - text-left -> Alinha o texto à esquerda;
         - text-right -> Alinha o texto à direita;
+
+- COMO USAR:
+
+    - MÉTODO 01 (RECOMENDADO):
+
+        - Copie a seguinte URL: https://cdn.jsdelivr.net/gh/DerickCarvalho/DkStrap@documentacao/DkStrap.css 
+        - Cole-a no href de uma tag linkcss de seu arquivo
+        - E pronto, o DkStrap já está funcionando!
+
+    - MÉTODO 02 (PARA MÉTODOS OFFLINE OU POSSÍVEIS PROBLEMAS):
+
+        - Faça o download do DkStrap.css aqui deste repositório;
+        - Coloque-o na pasta do seu projeto;
+        - Linke-o no href de um linkcss em seu arquivo html/
+        - Pronto!
