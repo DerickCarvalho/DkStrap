@@ -39,6 +39,20 @@
     align-items: center;
 }
 
+.flex-colum-center-top {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.flex-colum-center-bottom {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: center;
+}
+
 .flex-column-left {
     display: flex;
     flex-direction: column;
