@@ -26,6 +26,8 @@
             - flex-row-space-between -> Espaçamento ENTRE dos elementos de sua tag, baseando-se no alinhamento em linha.
         - DISPLAY FLEX EM COLUNA:
             - flex-column-center -> Irá centralizar os elementos de sua tag, baseando-se no alinhamento em coluna;
+            - flex-column-center-top -> Irá centralizar os elementos de sua tag, porém fixando-os no topo do elemento;
+            - flex-column-center-bottom -> Irá centralizar os elementos de sua tag, porém fixando-os no rodapé do elemento;
             - flex-column-left -> Irá alinhar à direita os elementos de sua tag, baseando-se no alinhamento em coluna;
             - flex-column-right -> Irá alinhar à esquerda os elementos de sua tag, baseando-se no alinhamento em coluna;
             - flex-column-space-around -> Espaçamento ENVOLTA os elementos de sua tag, baseando-se no alinhamento em coluna;
