@@ -56,7 +56,7 @@
 
     - MÉTODO 01 (RECOMENDADO):
 
-        - Copie a seguinte URL: https://cdn.jsdelivr.net/gh/DerickCarvalho/DkStrap@documentacao/DkStrap.css 
+        - Copie a seguinte URL: [https://cdn.jsdelivr.net/gh/DerickCarvalho/DkStrap@documentacao/DkStrap.css ](https://cdn.jsdelivr.net/gh/DerickCarvalho/DkStrap@main/DkStrap.css)
         - Cole-a no href de uma tag linkcss de seu arquivo
         - E pronto, o DkStrap já está funcionando!
 
